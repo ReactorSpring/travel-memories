@@ -25,10 +25,11 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
-build/
+build/ 
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
 .env
+
